@@ -1,2 +1,2 @@
 # 2048
-The great game in modern JS version
+The great game in modern JS version:)
